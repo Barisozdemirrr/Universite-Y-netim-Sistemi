@@ -1,1 +1,1 @@
-# Universite-Y-netim-Sistemi
+# Universite-Yonetim-Sistemi
